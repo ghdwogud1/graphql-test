@@ -1,0 +1,12 @@
+{
+  "name": "graphql-test",
+  "version": "1.0.0",
+  "description": "Test API with graphql",
+  "main": "index.js",
+  "repository": "https://github.com/ghdwogud1/graphql-test",
+  "author": "JaeHyung Hong",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7"
+  }
+}
